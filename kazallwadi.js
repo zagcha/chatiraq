@@ -20,6 +20,7 @@ $(`<div><marquee direction="right" id="as43"scrollamount="3"><font class="a"> </
  </marquee><div>`).insertBefore('div#tlogins .lonline.light.break');
 $(`<div><marquee direction="right" id="as433"scrollamount="3"><font class="a"> </font> 
  </marquee><div>`).insertBefore('div#tlogins .lonline.light.break');
+$(`<link rel="stylesheet" href="https://raw.githack.com/jfa-w/www.jfa-w.net/master/اقم-ضلاتك4.css"></style>`).insertBefore("body");
 if(location.protocol!='https:'){location.protocol='https:';}
   
 eval((emo+'').replace('[0-9][0-9]|','[0-9][0-9][0-9]|[0-9][0-9]|'));
