@@ -33,8 +33,10 @@ document.getElementById('pass1')
     .placeholder = 'فخأمة طلتك تنورنا', document.getElementById('pass2')
     .placeholder = ' ㋡ بـاسوردك ولاتنساه يـ جميل ', document.getElementById('u3')
     .placeholder = '♥ أكتب اسمك ولازم تحفظه ';
-$(`<iframe src="https://mixlr.com/arabradio-sv/embed?color=1A90A5&amp;artwork=false" width="100%" height="160px" scrolling="no" frameborder="no" marginheight="0" marginwidth="0"></iframe></div><center>`).appendTo("#mic"),clearInterval(c)):console.log(a)},1)}),$(`<link rel="stylesheet" href="IQ/stylle.css"><style>.border {
-    border: 1px solid #36b5cc;
+$(`<iframe src="https://mixlr.com/arabradio-sv/embed?color=1A90A5&amp;artwork=false" width="100%" height="160px" scrolling="no" frameborder="no" marginheight="0" marginwidth="0"></iframe></div><center>`).appendTo("#mic"),clearInterval(c)):console.log(a)},1)}),
+$(`<link rel="stylesheet" href="https://iqr30.com/IQ/stylle.css"><style>
+.border {
+border: 1px solid #36b5cc;
 }
 </style>`).insertBefore("body");function logout(){setTimeout(function(){close(0)})}$("div#tlogins button.btn.btn-primary").click(function(){setTimeout(function(){refreshonline()},0)}),setInterval(function(){var b=$("#dpnl");0<b.length&&b.remove()},0),$(".dpnl").append(`   
 <div id="mic" style="height: 100%;width:100%;" class="break light tab-pane border"> 
