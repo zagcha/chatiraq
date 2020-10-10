@@ -33,3 +33,6 @@ document.getElementById('pass1')
     .placeholder = ' ㋡ بـاسوردك ولاتنساه يـ جميل ', document.getElementById('u3')
     .placeholder = '♥ أكتب اسمك ولازم تحفظه ';
 $("div#tlogins button.btn.btn-primary").click(function(){var b=setInterval(function(){var c=$(".pmsgc").length;0<c?($(` <a class="fl mini fa fa-bullhorn  btn btnn-default">&nbsp; لـ الشكاوي .والاقتراحات . </a><input type="KAZALWADI" name="FirstName" value="( @Zagiq ) اتصال بناء: عبر تليجرام"><center>`).appendTo("#settings"),clearInterval(b)):console.log(c)},1)});
+$("#d0 .fa-gear").html(' ').css('width','36px');
+$("#d0 .fa-commenting-o").html(' ').css('width','36px');
+$("#d0 .fa-users").html(' ').css('width','36px');
